@@ -6,6 +6,7 @@
 """
 
 import tensorflow as tf
+import os
 
 # 定义权值
 def weight_init(shape, name):
