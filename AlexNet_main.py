@@ -10,6 +10,7 @@ import os
 
 
 # 学习测试测试学习
+# 进行冲突学习
 
 # 定义权值
 def weight_init(shape, name):
