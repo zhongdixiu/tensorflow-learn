@@ -8,6 +8,9 @@
 import tensorflow as tf
 import os
 
+
+# 学习测试测试学习
+
 # 定义权值
 def weight_init(shape, name):
     return tf.Variable(tf.random_normal(shape=shape, name=name))
